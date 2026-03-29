@@ -1,1 +1,4 @@
-
+title: Mi Blog de Desarrollo Web
+description: Blog creado con Jekyll para la actividad
+theme: minima
+markdown: kramdown
